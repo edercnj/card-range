@@ -1,6 +1,6 @@
-package com.br.valhalla.model.entity;
+package com.br.valhalla.cardrange.model.entity;
 
-import com.br.valhalla.model.enumeration.Product;
+import com.br.valhalla.cardrange.model.enumeration.Product;
 
 public class Bin {
 

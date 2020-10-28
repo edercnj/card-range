@@ -1,4 +1,4 @@
-package com.br.valhalla.model.enumeration;
+package com.br.valhalla.cardrange.model.enumeration;
 
 public enum Product {
     DEBIT,

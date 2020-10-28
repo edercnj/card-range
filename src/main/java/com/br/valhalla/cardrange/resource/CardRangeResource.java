@@ -1,7 +1,7 @@
-package com.br.valhalla.resource;
+package com.br.valhalla.cardrange.resource;
 
-import com.br.valhalla.model.dto.BinDTO;
-import com.br.valhalla.model.entity.Bin;
+import com.br.valhalla.cardrange.model.dto.BinDTO;
+import com.br.valhalla.cardrange.model.entity.Bin;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
