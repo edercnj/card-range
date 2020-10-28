@@ -1,6 +1,6 @@
 package com.br.valhalla.model.entity;
 
-import com.br.valhalla.model.enumeration.PRODUCT;
+import com.br.valhalla.model.enumeration.Product;
 
 public class Bin {
 
@@ -8,5 +8,5 @@ public class Bin {
     private String name;
     private Issuer issuer;
     private int binLenght;
-    private PRODUCT PRODUCT;
+    private Product product;
 }
